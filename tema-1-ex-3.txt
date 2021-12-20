@@ -1,20 +1,27 @@
-20
+31
+
+
+#  A4 8
+#  G5 16
+
+
+
 
 # Masura 1
-C3        0
-C3 E3     0
-C3 E3  G3 0
-       C4 0
-C3 E3  E4 0
-C3 E3  G3 0
-C3 E3  C4 0
-       E4 0
+C3        1
+C3 E3     1
+C3 E3  G3 1
+C3 E3  C4 1
+C3     E4 1
+C3 E3  G3 1
+C3 E3  C4 1
+C3 E3  E4 1
 
-C3        0
-C3 D3     0
-C3 D3  G3 0
-       C4 0
-C3 D3  E4 0
-C3 D3  G3 0
-C3 D3  C4 0
-       E4 0
+C3        1
+C3 D3     1
+C3 D3  G3 1
+C3 D3  C4 1
+C3     E4 1
+C3 D3  G3 1
+C3 D3  C4 1
+C3 D3  E4 1
