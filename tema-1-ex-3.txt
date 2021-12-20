@@ -1,20 +1,98 @@
-20
+2
 
 # Masura 1
-C3        0
-C3 E3     0
-C3 E3  G3 0
-       C4 0
-C3 E3  E4 0
-C3 E3  G3 0
-C3 E3  C4 0
-       E4 0
+C3        16
+C3 E3     16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
 
-C3        0
-C3 D3     0
-C3 D3  G3 0
-       C4 0
-C3 D3  E4 0
-C3 D3  G3 0
-C3 D3  C4 0
-       E4 0
+C3        16
+C3 E3     16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
+
+# Masura 2
+C3        16
+C3 D3     16
+C3 D3  A4 16
+C3 D3  D4 16
+C3 D3  F4 16
+C3 D3  A3 16
+C3 D3  D4 16
+C3 D3  F4 16
+
+C3        16
+C3 D3     16
+C3 D3  A4 16
+C3 D3  D4 16
+C3 D3  F4 16
+C3 D3  A3 16
+C3 D3  D4 16
+C3 D3  F4 16
+
+
+# Masura 3
+B3        16
+B3 D3     16
+B3 D3  G3 16
+B3 D3  D4 16
+B3 D3  F4 16
+B3 D3  G3 16
+B3 D3  D4 16
+B3 D3  F4 16
+
+B3        16
+B3 D3     16
+B3 D3  G3 16
+B3 D3  D4 16
+B3 D3  F4 16
+B3 D3  G3 16
+B3 D3  D4 16
+B3 D3  F4 16
+
+# Masura 4
+C3        16
+C3 E3     16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
+
+C3        16
+C3 E3     16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
+C3 E3  G3 16
+C3 E3  C4 16
+C3 E3  E4 16
+
+
+# Masura 5
+C3        16
+C3 E3     16
+C3 E3  A4 16
+C3 E3  E4 16
+C3 E3  A5 16
+C3 E3  A4 16
+C3 E3  E4 16
+C3 E3  A5 16
+
+C3        16
+C3 E3     16
+C3 E3  A4 16
+C3 E3  E4 16
+C3 E3  A5 16
+C3 E3  A4 16
+C3 E3  E4 16
+C3 E3  A5 16
